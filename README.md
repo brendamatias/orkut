@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Template Logo" src=".github/logo.svg" width="250px" />
+  <img alt="Orkut Logo" src=".github/logo.png" width="250px" />
 </h1>
 
 <div align="center">

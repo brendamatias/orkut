@@ -25,12 +25,12 @@ const GlobalStyle = createGlobalStyle`
     font: 14px 'Roboto', sans-serif;
   }
 
-  a {
+  /* a {
     text-decoration: none;
     color: rgb(0, 55, 107);
     font-size: 16px;
     font-weight: 600;
-  }
+  } */
 
   ul {
     list-style: none;

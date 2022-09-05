@@ -1,14 +1,15 @@
 import type { NextPage } from 'next';
 import Head from 'next/head';
+import Login from '../components/Login';
 
 const Home: NextPage = () => (
   <>
     <Head>
-      <title>Create Next App</title>
+      <title>Orkut</title>
     </Head>
 
     <main>
-      <h1>Hello World</h1>
+      <Login />
     </main>
   </>
 );
