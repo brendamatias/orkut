@@ -16,16 +16,16 @@
 
 <br>
 
-<img alt="Template Preview" src=".github/preview.jpg" width="100%" />
+<img alt="Orkut Preview" src=".github/preview.png" width="100%" />
 
 <div align="center">
-  <a align="center" href="" alt="Template">See the project</a>
+  <a align="center" href="https://recreated-orkut.vercel.app/" alt="Template">See the project</a>
 </div>
 
 
 ## 📑 About
 
-TO DO
+This project was developed with the intention of copying the Orkut interface.
 
 ## :rocket: Technologies
 
